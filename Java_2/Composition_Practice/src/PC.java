@@ -1,7 +1,7 @@
 
 public class PC {
 	
-//	this class is utilizing the 3 classes
+//	this PC class is utilizing the 3 classes
 //	assigned to variables
 //	This is also composition
 	private Case theCase;
