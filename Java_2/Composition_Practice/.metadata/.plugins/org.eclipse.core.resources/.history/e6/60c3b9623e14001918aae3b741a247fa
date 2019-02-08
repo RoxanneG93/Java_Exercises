@@ -1,0 +1,14 @@
+
+public class Vehicle {
+	
+//	variable specific to car
+	private Model model;
+	private String year;
+
+	public static void main(String[] args) {
+		
+		System.out.println
+
+	}
+
+}

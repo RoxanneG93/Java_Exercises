@@ -1,0 +1,13 @@
+
+public class Vehicle {
+	
+	private String model;
+	private String year;
+
+	public static void main(String[] args) {
+		
+
+
+	}
+
+}

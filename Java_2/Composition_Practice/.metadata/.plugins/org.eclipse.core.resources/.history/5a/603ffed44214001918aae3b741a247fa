@@ -1,0 +1,46 @@
+
+public class Lense {
+//	class specific variables
+	private String model;
+	private String manufacturer;
+	private String focusType;
+	private int weight;
+	private int dimensions;
+	
+//	Constructor
+	public Lense(String model, String manufacturer, String focusType, int weight, int dimensions) {
+		super();
+		this.model = model;
+		this.manufacturer = manufacturer;
+		this.focusType = focusType;
+		this.weight = weight;
+		this.dimensions = dimensions;
+	}
+
+	
+//	GETTERS
+	public String getModel() {
+		return model;
+	}
+
+	public String getManufacturer() {
+		return manufacturer;
+	}
+
+	public String getFocusType() {
+		return focusType;
+	}
+
+	public int getWeight() {
+		return weight;
+	}
+
+	public int getDimensions() {
+		return dimensions;
+	}
+	
+	
+	
+	
+
+}
